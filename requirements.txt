@@ -1,0 +1,6 @@
+arsenic
+aiohttp
+aiosqlite
+discord.py
+bs4
+requests
